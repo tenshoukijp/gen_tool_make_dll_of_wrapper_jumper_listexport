@@ -8,4 +8,6 @@ listexport.exe ddraw.dll _ddraw
 天翔記のPluginModや天翔記HDのHD.version.SDK にて
 このツールでのコード生成から制作が始まっている。
 
+ソース元は「listexp2.exe」
+
 http://www.chiyoclone.net/details.html
