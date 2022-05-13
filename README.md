@@ -1,0 +1,2 @@
+# gen_tool_make_dll_of_wrapper_jumper_listexport
+元のdllとの間に入ってジャンプするだけのラッパーdllを作成する。天翔記のPluginModや天翔記HDのHD.version.SDK にてこのツールでの生成が利用されている。
